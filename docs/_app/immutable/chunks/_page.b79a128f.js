@@ -1,0 +1,1 @@
+import"./paths.77b99f5f.js";const e=async({fetch:t})=>({settings:{},gitIgnore:""}),r=Object.freeze(Object.defineProperty({__proto__:null,load:e},Symbol.toStringTag,{value:"Module"}));export{r as _,e as l};
